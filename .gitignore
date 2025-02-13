@@ -1,0 +1,11 @@
+list.json
+list.txt
+test.json
+.vscode/settings.json
+src/main/java/ru/bicev/Main.java
+src/main/java/ru/bicev/TestClass.java
+target/classes/ru/bicev/FileIOHandler.class
+target/classes/ru/bicev/JsonFileHandler.class
+target/classes/ru/bicev/Main.class
+target/classes/ru/bicev/TestClass.class
+target/classes/ru/bicev/Main.class
